@@ -4,7 +4,7 @@
 
 ## 技术方向
 
-- **大模型 API 调用：通义千问API（核心接入）/ LangChain统一封装多模型链路
+- **大模型 API 调用**：通义千问API（核心接入）/ LangChain统一封装多模型链路
 - **Prompt Engineering**：system prompt 三层设计（角色 + 格式 + 评判标准）
 - **Python 数据工程**：数据清洗 / 异常处理 / 批量自动化脚本
 - **AI 理论基础**：Transformer Self-Attention 四步流程可推导
